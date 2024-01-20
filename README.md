@@ -9,8 +9,11 @@
 <br/>
 
 <div align="center">
+
+
+ 📚 I'm currently an undergraduate student at the **New Jersey Institute of Technology**
  
- 🌱 I’m currently learning **React, TypeScript, AWS**
+ 🌱 I am currently learning **React, TypeScript, and AWS**
 
 ⚡ Fun fact **Better Call Saul had 53 nominations at the Emmys and won 0**
 
