@@ -13,7 +13,9 @@
 
  📚 I'm currently an undergraduate student at the **New Jersey Institute of Technology**
  
- 🌱 I am currently learning **React, TypeScript, and AWS**
+ 🌱 I am learning **React, TypeScript, and AWS**
+
+ 💻 I am proficient in **Python and C** 
 
 ⚡ Fun fact **Better Call Saul had 53 nominations at the Emmys and won 0**
 
