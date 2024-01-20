@@ -1,12 +1,21 @@
-### Hi there 👋
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-- Computer Science student at NJIT with a passion for programming.
-- Proficient in programming languages such as Python, and C.
-- Currently expanding skills in React.js and TypeScript through hands-on projects.
-- Actively engaged in the programming community, staying updated on industry trends.
-- Enthusiastic about problem-solving and writing clean, efficient code.
-- Strong collaboration skills developed through participating in team-based projects.
-- Outside of coding, I enjoy playing video games and playing sports with my friends.
- 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
  
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
